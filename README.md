@@ -1,4 +1,4 @@
-# 常见的算法模型 
+# Machine-Learning-Model-Code #
 
 - TF-IDF -mapreduce
 - AlexNet
